@@ -1,0 +1,25 @@
+{
+    "name": "jiangshengxin/dfa",
+    "description": "jiangshengxin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jiangshengxin",
+            "email": "1348550820@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dfa\\": "src/"
+        }
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
