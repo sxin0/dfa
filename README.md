@@ -13,7 +13,7 @@
 
 {
     "require": {
-        "jiangshengxin/hello":"dev-master"
+        "jiangshengxin/dfa":"dev-master"
     }
 }
 
