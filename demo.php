@@ -25,7 +25,7 @@ echo $str;
  *
  * ...
  *
- * 2017 Copyright (c) http://note.hanfu8.top
+ * 2017 Copyright (c) http://note.jsx6.com
  *
  * 修改历史
  * ----------------------------------------
